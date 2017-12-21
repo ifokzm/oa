@@ -4,7 +4,7 @@ SpringOA简介
 基于SpringMVC+Shiro+Activiti 5.16 的简单OA，可以快速入门Activiti学习用。
 此版本前台使用的是EasyUI
 
-框架简介  xxx
+框架简介
 --------
 框架以Spring Framework为核心、Spring MVC作为模型视图控制器、Shiro作为权限框架、Hibernate作为数据库操作层。<br>
 本项目也可以为学习SpringMVC的同学提供帮助。<br>
